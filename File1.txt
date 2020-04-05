@@ -1,5 +1,5 @@
 This is First Statement!!! Welcome to Git!!!
 Change1
 Change2
-Change3 some change
+Change --> 3 new CHange issue resolved
 New Awsome change
